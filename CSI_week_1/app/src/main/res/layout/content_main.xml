@@ -198,7 +198,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:text="Report"
-                android:id="@+id/button"
+                android:id="@+id/buttonReport"
                 android:textColor="#ffffff"
                 android:layout_marginTop="10dp"
                 android:background="#373535" />
