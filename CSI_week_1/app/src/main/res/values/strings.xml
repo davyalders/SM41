@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CSI_week_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">description</string>
+    <string name="Name">Bas</string>
+    <string name="Name1">Name:</string>
+    <string name="Name2">Bas</string>
+    <string name="Gender1">Gender:</string>
+    <string name="Gender2">Male</string>
+    <string name="Age1">Age:</string>
+    <string name="Age2">21</string>
+    <string name="Bounty1">Bounty:</string>
+    <string name="Bounty2">€10,-</string>
+    <string name="Details">Details: </string>
+    <string name="Detailinfo">Duis suscipit eu nulla quis convallis. Quisque varius nisi dapibus sollicitudin rutrum. Nunc pulvinar eros ut dui luctus consequat. Phasellus pulvinar mauris felis, quis convallis ligula hendrerit id. Vestibulum interdum magna mi, nec fringilla turpis accumsan id. Vivamus iaculis, nunc id laoreet fermentum, ante velit lacinia enim, eu lacinia magna leo eget nulla. Proin sed consectetur ipsum. Nunc ut mi et justo faucibus lacinia id et sem. Vestibulum dolor erat, iaculis eget consectetur viverra, lobortis et metus. Suspendisse laoreet, enim ut lacinia ornare, leo arcu sagittis eros, eu ornare lectus lacus a mauris. Vivamus lacus tellus, gravida sed pulvinar eu, dictum vitae nulla. Donec gravida, dolor sed tempor vehicula, neque odio efficitur leo, non suscipit velit ipsum non ante. Duis quis urna molestie, elementum libero id, dictum risus. Curabitur vel metus sit amet lorem hendrerit scelerisque. Suspendisse sit amet nibh nec ipsum vestibulum aliquam.</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="GPS">GPS Position</string>
+    <string name="Picture">Take picture</string>
+    <string name="badguy2">Badguy</string>
+</resources>
